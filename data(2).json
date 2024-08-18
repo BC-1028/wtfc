@@ -15,9 +15,9 @@
     "Time": "14:00",
     "Details": {
       "Home Team": "Worksop Town",
-      "Away Team": "Kiveton Park Reserves",
+      "Away Team": "Kiveton Park Res",
       "Location": "WORKSOP TOWN FOOTBALL GROUND",
-      "Opponent": "Kiveton Park Reserves",
+      "Opponent": "Kiveton Park Res",
       "Venue": "Home"
     }
   },
@@ -124,10 +124,10 @@
     "Date": "01 Dec 2024",
     "Time": "14:00",
     "Details": {
-      "Home Team": "Kiveton Park Reserves",
+      "Home Team": "Kiveton Park Res",
       "Away Team": "Worksop Town",
       "Location": "22/23 Wales High School #1",
-      "Opponent": "Kiveton Park Reserves",
+      "Opponent": "Kiveton Park Res",
       "Venue": "Away"
     }
   },
@@ -168,10 +168,10 @@
     "Date": "12 Jan 2025",
     "Time": "14:00",
     "Details": {
-      "Home Team": "West End Terriers Reserves",
+      "Home Team": "West End Terriers Res",
       "Away Team": "Worksop Town",
       "Location": "OUTWOOD ACADEMY HEMSWORTH",
-      "Opponent": "West End Terriers Reserves",
+      "Opponent": "West End Terriers Res",
       "Venue": "Away"
     }
   },
@@ -202,9 +202,9 @@
     "Time": "14:00",
     "Details": {
       "Home Team": "Worksop Town",
-      "Away Team": "West End Terriers Reserves",
+      "Away Team": "West End Terriers Res",
       "Location": "WORKSOP TOWN FOOTBALL GROUND",
-      "Opponent": "West End Terriers Reserves",
+      "Opponent": "West End Terriers Res",
       "Venue": "Home"
     }
   },
